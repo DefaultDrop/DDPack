@@ -1,6 +1,6 @@
 # DDPack
 
-#### 0.3.1
+## 0.3.1
 **Known Issues**
 - N/A
 
@@ -18,7 +18,8 @@
 **Updated Mod(s)**
 - N/A
 
-#### 0.2.1
+
+## 0.2.1
 **Known Issues**
 - N/A
 
