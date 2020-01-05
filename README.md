@@ -35,7 +35,7 @@
 - Just Mob Heads
 
 **Removed Mod(s)**
-N/A
+- N/A
 
 **Updated Mod(s)**
-N/A
+- N/A
