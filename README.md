@@ -1,13 +1,14 @@
 # DDPack
 
-###### 0.3.1
+#### 0.3.1
 **Known Issues**
-N/A
+- N/A
+
 
 **Changes**
-N/A
+- N/A
 
-Added Mod(s)
+**Added Mod(s)**
 - Bonsai Trees
 - /dank/null
 
@@ -15,16 +16,16 @@ Added Mod(s)
 - Useful Nullifiers
 
 **Updated Mod(s)**
-N/A
+- N/A
 
-###### 0.2.1
+#### 0.2.1
 **Known Issues**
-N/A
+- N/A
 
 **Changes**
-N/A
+- N/A
 
-Added Mod(s)
+**Added Mod(s)**
 - Portalable Craft Bench
 - Always a Wither Skull
 - Better Beacon Placement
