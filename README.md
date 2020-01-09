@@ -1,5 +1,42 @@
 # DDPack
 
+## 0.4.1
+**Known Issues**
+- N/A
+
+
+**Changes**
+- Immersive Engineering: Set the yeild from the ore excavator to infinite from 38400
+- Immersive Petroleum: Added a 0 to the min and max reservoir sizes
+
+**Added Mod(s)**
+- Tiered Magnets
+- ArchitectureCraft - TridentMC Version
+- Quark
+- Diet hoppers
+- Open Terrain Generator
+- Biome Bundle
+- Simple Corn
+- Iron Jetpacks
+- Imple Ore Generation
+- Simple Flax
+
+**Removed Mod(s)**
+- Baubles
+- Biomes O' Plenty
+- Inventory Tweaks
+- Just Enough HarvestCraft
+- Natura
+- Netherending Ores
+- Pam's HarvestCraft
+- Patchouli
+- Recurrent Complex
+- Worley's Caves
+
+**Updated Mod(s)**
+- N/A
+
+
 ## 0.3.1
 **Known Issues**
 - N/A
